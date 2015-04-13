@@ -14,3 +14,7 @@ C:\Users\hoang\Desktop\ASM\WindowsApplication1\WindowsApplication1\obj\Debug\Win
 C:\Users\hoang\Desktop\ASM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmsuaSP.resources
 C:\Users\hoang\Desktop\ASM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmxoaSP.resources
 C:\Users\hoang\Desktop\ASM\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmlicense.resources
+E:\ASMPS02365\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\ASMPS02365\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\ASMPS02365\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\ASMPS02365\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

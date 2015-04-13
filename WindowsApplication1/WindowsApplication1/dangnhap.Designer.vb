@@ -163,7 +163,7 @@ Partial Class frmdangnhap
         Me.Font = New System.Drawing.Font("Times New Roman", 8.0!)
         Me.Name = "frmdangnhap"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "Đăng nhập"
+        Me.Text = "Đăng nhập Xì Trum"
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()
         Me.ResumeLayout(False)
